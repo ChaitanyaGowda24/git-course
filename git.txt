@@ -1,0 +1,1 @@
+writing few commands for setting up the git 
